@@ -2,7 +2,7 @@
   <h2>All AWS Projects</h2>
   <a href="https://learn.nextwork.org/encouraged_azure_smart_acerola/portfolio" target="_blank" class="project-link">View Projects</a>
   <section>
-    <h2>Home Labs</h2>
+    <h2>Projects</h2>
     <div class="project-grid">
       <div class="project-card">
         <h3>Honeypot Lab</h3>

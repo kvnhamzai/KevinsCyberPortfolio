@@ -30,7 +30,7 @@
   </section>
 
   <section>
-    <h2>Ethical Hacking Labs</h2>
+    <h2>Ethical Hacking Projects</h2>
     <div class="project-grid">
       <div class="project-card">
         <h3>OSINT Tools</h3>

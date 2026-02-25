@@ -6,7 +6,7 @@
     <div class="project-grid">
       <div class="project-card">
         <h3>Honeypot Project</h3>
-        <a href="https://github.com/kvnhamzai/KevinsCyberPortfolio/blob/main/Honeypot%20lab-3.pdf" target="_blank">View Project</a>
+        <a href="Honeypot lab-3.pdf" target="_blank">View Project</a>
       </div>
       <div class="project-card">
         <h3>Azure Directory Project</h3>
